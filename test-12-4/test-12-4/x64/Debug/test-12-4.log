@@ -1,0 +1,9 @@
+﻿  或得函数.cpp
+E:\编程\test-12-4\test-12-4\或得函数.cpp(9,3): error C2664: “int printf(const char *const ,...)”: 无法将参数 1 从“int”转换为“const char *const ”
+  E:\编程\test-12-4\test-12-4\或得函数.cpp(9,17):
+  从整型类型转换为指针类型需要 reinterpret_cast、C 样式转换或带圆括号的函数样式强制转换
+  D:\Windows Kits\10\Include\10.0.22621.0\ucrt\stdio.h(950,37):
+  参见“printf”的声明
+  E:\编程\test-12-4\test-12-4\或得函数.cpp(9,3):
+  尝试匹配参数列表“(int)”时
+  

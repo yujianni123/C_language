@@ -1,0 +1,3 @@
+﻿  a.c
+C:\Users\32935\Source\Repos\Project1_9_21\Project1_9_21\a.c(7,1): warning C4172: 返回局部变量的地址或临时 : p
+  Project1_9_21.vcxproj -> C:\Users\32935\Source\Repos\Project1_9_21\x64\Debug\Project1_9_21.exe

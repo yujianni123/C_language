@@ -16,9 +16,12 @@ int main()
 	int ch = fgetc(pf);
 	printf("%c\n", ch);
 	fseek(pf, -4, SEEK_END);
+	ch = fgetc(pf);
 	printf("%d\n", ftell(pf));
 
-
+	rewind(pf);
+	ch = fgetc(pf);
+	printf("%d\n", ftell(pf));
 
 	fclose(pf);
 	pf = NULL;

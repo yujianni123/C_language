@@ -1,0 +1,4 @@
+﻿  jiegouti.c
+C:\Users\32935\Source\Repos\Project1_9_28_5\Project1_9_28_5\jiegouti.c(26,19): error C2057: 应输入常量表达式
+C:\Users\32935\Source\Repos\Project1_9_28_5\Project1_9_28_5\jiegouti.c(26,19): error C2466: 不能分配常量大小为 0 的数组
+C:\Users\32935\Source\Repos\Project1_9_28_5\Project1_9_28_5\jiegouti.c(26,17): error C2133: “c”: 未知的大小

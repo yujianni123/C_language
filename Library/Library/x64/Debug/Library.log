@@ -1,0 +1,4 @@
+﻿  图书管理系统.c
+D:\VS2022\VC\Auxiliary\VS\include\easyx.h(31,1): error C1189: #error:  EasyX is only for C++
+  (编译源文件“图书管理系统.c”)
+  

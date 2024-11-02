@@ -1,0 +1,7 @@
+﻿D:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1119,5): warning MSB8027: 名为 USER.cpp 的两个或更多文件将生成到同一位置的输出。这会导致错误的生成结果。   调用的文件是 USER.cpp, USER.cpp。
+  Management.cpp
+C:\Users\32935\Source\Repos\StudentManagement_GUI_new(1)\Table.h(14,46): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Management.cpp”)
+  
+C:\Users\32935\Source\Repos\StudentManagement_GUI_new(1)\Management.cpp(27,14): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  StudentManagement_GUI.vcxproj -> C:\Users\32935\Source\Repos\StudentManagement_GUI_new(1)\x64\Debug\StudentManagement_GUI.exe

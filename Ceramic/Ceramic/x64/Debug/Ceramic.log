@@ -1,0 +1,10 @@
+﻿  陶瓷文化管理系统.cpp
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\陶瓷文化管理系统.cpp(6,10): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\Table.h(13,46): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“陶瓷文化管理系统.cpp”)
+  
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\陶瓷文化管理系统.cpp(311,21): warning C4101: “choice”: 未引用的局部变量
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\陶瓷文化管理系统.cpp(312,22): warning C4101: “name”: 未引用的局部变量
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\陶瓷文化管理系统.cpp(469,9): warning C4101: “choice”: 未引用的局部变量
+C:\Users\32935\Source\Repos\Ceramic\Ceramic\陶瓷文化管理系统.cpp(470,10): warning C4101: “name”: 未引用的局部变量
+  Ceramic.vcxproj -> C:\Users\32935\Source\Repos\Ceramic\x64\Debug\Ceramic.exe

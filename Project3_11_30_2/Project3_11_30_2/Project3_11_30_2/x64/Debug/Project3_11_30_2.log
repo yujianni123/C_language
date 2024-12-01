@@ -1,0 +1,7 @@
+﻿  后缀表达式.c
+C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\后缀表达式.c(43,5): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\后缀表达式.c(99,29): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\后缀表达式.c(132,26): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\后缀表达式.c(143,33): warning C4244: “return”: 从“float”转换到“int”，可能丢失数据
+C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\后缀表达式.c(151,1): warning C4715: “ComputeExpress”: 不是所有的控件路径都返回值
+  Project3_11_30_2.vcxproj -> C:\Users\32935\Source\Repos\Project3_11_30_2\Project3_11_30_2\x64\Debug\Project3_11_30_2.exe

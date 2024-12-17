@@ -1,0 +1,4 @@
+﻿  哈夫曼树.c
+C:\Users\32935\Source\Repos\Project3_12_16_2\Project3_12_16_2\哈夫曼树.c(51,14): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\32935\Source\Repos\Project3_12_16_2\Project3_12_16_2\哈夫曼树.c(54,15): warning C4018: “<”: 有符号/无符号不匹配
+  Project3_12_16_2.vcxproj -> C:\Users\32935\Source\Repos\Project3_12_16_2\Project3_12_16_2\x64\Debug\Project3_12_16_2.exe
